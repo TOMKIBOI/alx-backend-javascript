@@ -1,7 +1,7 @@
 /**
  * Displays a message
  * @param {String} msg- the message to display
- * @author Micah Ondiwa <https://github.com/micahondiwa>
+ * @author Tom Kiboi
  */
 const displayMessage = (msg) => {
   console.log(msg);
